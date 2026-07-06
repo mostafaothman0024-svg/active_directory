@@ -1,0 +1,26 @@
+{
+    "domain" : "mostafa.local", 
+    "groups": [
+{
+    "Name": "HR"
+
+}
+
+    ],
+
+
+    "users": [
+        {
+            "name": "Alice ALkhw",
+            "password": "M_othman2004",
+             "groups": ["Employees"]
+        }
+          ,
+        {
+            "name": "Bob Sm",
+            "password": "M_Alkhwaja2004",
+             "groups": ["Employees"]
+        }
+    ]
+    
+}
